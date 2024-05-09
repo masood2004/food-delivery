@@ -12,3 +12,9 @@
 .navbar .profile {
   width: 40px;
 }
+
+.logo {
+  font-size: 40px;
+  font-weight: bold;
+  color: orangered;
+}
